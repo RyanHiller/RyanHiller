@@ -14,6 +14,8 @@
 
 <br />
 
+<br />
+
 Hi, I'm [Ryan Hiller](https://ryanhiller.dev), a web and software developer from Colorado with a bachelor's in computer science. I love making performant, responsive, accessible web applications and learning new, efficient ways to do it. I am always looking to improve my coding abilities though learning, practicing, and teaching. I believe everyone should have access to information and technology, and strive to make my projects as open source and accessible as possible.
 
 **Languages and Tools:**
