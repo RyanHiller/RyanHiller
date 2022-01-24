@@ -17,16 +17,16 @@
 Hi, I'm [Ryan Hiller](https://ryanhiller.dev), a web and software developer from Colorado with a bachelor's in computer science. I love making performant, responsive, accessible web applications and learning new, efficient ways to do it. I am always looking to improve my coding abilities though learning, practicing, and teaching. I believe everyone should have access to information and technology, and strive to make my projects as open source and accessible as possible.
 
 **Languages and Tools:**
-
-<img height="25" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">
-<img height="25" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
-<img height="25" alt="Node.JS" title="Node.JS" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-plain.svg">
-<img height="25" alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg">
-<img height="25" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg">
-<img height="25" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg">
-
-<img height="25" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">
-<img height="20" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
+<div>
+  <img height="25" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">
+  <img height="25" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
+  <img height="25" alt="Node.JS" title="Node.JS" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-plain.svg">
+  <img height="25" alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg">
+  <img height="25" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg">
+  <img height="25" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg">
+  <img height="25" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">
+  <img height="20" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
+</div>
 
 ### 
 - 🔭 I’m currently working on some projects for my portfolio
