@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://open.spotify.com/user/ryanhiller">
-  <img align="left" alt="Ryan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Ryan's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 
 <br />
