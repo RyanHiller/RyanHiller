@@ -32,7 +32,7 @@ Hi, I'm [Ryan Hiller](https://ryanhiller.dev), a web and software developer from
 </div>
 
 ### 
-- 💼 I'm currently looking for full-time work!
+- 💼 I'm not currently looking for work! I'm a full-stack developer for AGIA.
 - 🔭 I’m currently working on some projects for my portfolio
 - 🌱 I’m currently learning Next.js, Gatsby, and Jest
 - 👯 I’m looking to collaborate on any React or Node.js projects
