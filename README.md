@@ -1,11 +1,11 @@
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/RyanHiller">
-  <img align="left" alt="Ryan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ryan's Twitter" width="22px" src="https://www.svgrepo.com/show/71327/twitter-square-logo.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/ryan-hiller">
-  <img align="left" alt="Ryan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ryan's LinkedIn" width="22px" src="https://www.svgrepo.com/show/500918/linkedin.svg" />
 </a>
 
 <a href="https://open.spotify.com/user/ryanhiller">
